@@ -11,7 +11,7 @@
     "category": "actions & transactions",
     "tags": ["sponge", "wallet", "payments", "x402", "solana", "base", "api"],
     "authorName": "Sponge",
-    "authorUrl": "https://github.com/paysponge/pinata-agent-template/tree/main/openclaw/actions-and-transactions/agent-with-sponge-wallet",
+    "authorUrl": "https://github.com/paysponge/pinata-agent-templates/tree/main/agent-with-sponge-wallet",
     "authorLogoUrl": "https://paysponge.com/logo.png"
   },
   "scripts": {
