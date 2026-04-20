@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "agent": {
+    "name": "Agent with Sponge Wallet",
+    "description": "An AI agent pre-configured with a Sponge wallet. Talks directly to the Sponge REST API to transfer, swap, and bridge tokens across Base, Ethereum, Solana, and Tempo, and pays for x402-protected APIs — web search, image generation, scraping, AI, enrichment, and more.",
+    "vibe": "practical, safe, cost-conscious, confirms before spending",
+    "emoji": "🧽"
+  },
+  "template": {
+    "slug": "agent-with-sponge-wallet",
+    "category": "actions & transactions",
+    "tags": ["sponge", "wallet", "payments", "x402", "solana", "base", "api"],
+    "authorName": "Sponge",
+    "authorUrl": "https://github.com/paysponge/pinata-agent-template/tree/main/openclaw/actions-and-transactions/agent-with-sponge-wallet",
+    "authorLogoUrl": "https://paysponge.com/logo.png"
+  },
+  "scripts": {
+    "build": "bash setup.sh",
+    "start": ""
+  },
+  "routes": []
+}
