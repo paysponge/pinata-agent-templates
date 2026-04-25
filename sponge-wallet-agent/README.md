@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A pre-configured agent template backed by the [Sponge Wallet skill](https://wallet.paysponge.com/skill.md). Deploy it and get an AI agent that can transfer, swap, and bridge tokens across Base, Ethereum, Solana, and Tempo — and pay for x402-protected APIs on your behalf.
+A pre-configured agent template backed by the [Sponge Wallet skill](https://wallet.paysponge.com/skill.md). Deploy it and get an agent that has its own crypto wallet, bank account, and credit card, separate from yours.
 
 No CLI. Every operation is a plain REST call to `https://api.wallet.paysponge.com`. The skill file contains instructions and context on how to call each API endpoint.
 
@@ -12,7 +12,7 @@ No CLI. Every operation is a plain REST call to `https://api.wallet.paysponge.co
 
 ### Key Capabilities
 
-- **Securely managed crypto wallet** with transfers, bridging, swaps, and trading on Hyperliquid and Polymarket
+- **Securely managed crypto wallets** with transfers, bridging, swaps, and trading on Hyperliquid and Polymarket
 - **Virtual bank accounts** to send and receive ACH and wire transfers
 - **Virtual credit cards** to make online payments
 - **x402 / MPP payments** to pay for API services without an API key or account

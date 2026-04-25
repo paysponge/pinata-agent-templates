@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "agent": {
+    "name": "Sponge Wallet Agent",
+    "description": "An agent pre-configured with a Sponge Wallet to perform financial tasks using its own crypto wallet, bank account, and credit card",
+    "vibe": "practical, safe, cost-conscious, careful, confirms before spending",
+    "emoji": "🧽"
+  },
+  "template": {
+    "slug": "sponge-wallet-agent",
+    "category": "financial agent",
+    "tags": ["sponge", "wallet", "payments", "crypto", "bank", "card", "x402", "mpp"],
+    "authorName": "Sponge",
+    "authorUrl": "https://github.com/paysponge/pinata-agent-templates/tree/main/sponge-wallet-agent",
+    "authorLogoUrl": "https://paysponge.com/logo.png"
+  },
+  "scripts": {
+    "build": "bash setup.sh",
+    "start": ""
+  },
+  "routes": []
+}
